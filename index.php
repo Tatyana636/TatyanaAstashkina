@@ -1,5 +1,4 @@
-
-<?php  include("page/header.php"); ?>
+<?php include("page/header.php");?>
 <div class='Welcome'>
 	<p>Добро пожаловать!</p>
 </div>
